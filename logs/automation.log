@@ -1,0 +1,10 @@
+2024-08-05 13:40:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium Java\opencartV1\master.xml
+
+2024-08-05 13:40:39 INFO  TC_001_AccountRegistration_Test:20 - ***Starting TC_001_AccountRegistration_Test***
+2024-08-05 13:40:41 INFO  TC_001_AccountRegistration_Test:26 - Clicked on MyAccount Link
+2024-08-05 13:40:44 INFO  TC_001_AccountRegistration_Test:29 - Clicked on Register Link
+2024-08-05 13:40:44 INFO  TC_001_AccountRegistration_Test:33 - Providing customer details
+2024-08-05 13:40:55 INFO  TC_001_AccountRegistration_Test:60 - ***Finished TC_001_AccountRegistration_Test***
+2024-08-05 13:41:23 INFO  TC002_LoginTest:16 - ***Starting TC002_TestLogin***
+2024-08-05 13:41:29 INFO  TC002_LoginTest:43 - ***Finished TC002_LoginTest****
